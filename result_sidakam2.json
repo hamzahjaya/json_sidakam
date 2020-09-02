@@ -1,0 +1,127 @@
+{
+    "draw": "1",
+    "recordsTotal": 10,
+    "recordsFiltered": 10,
+    "data": [
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "7",
+            "nama_paslon": "kukri",
+            "nama_wilayah": "NIAS UTARA",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Walikota dan Wakil Walikota"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "22",
+            "nama_paslon": "asasasasas",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "9",
+            "nama_paslon": "jakdjaf",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "10",
+            "nama_paslon": "jkaj",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "6",
+            "nama_paslon": "jahuddin",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "231123",
+            "pengeluaran_ladk": "23243",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "11",
+            "nama_paslon": "jury",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PERSEORANGAN",
+            "id": "20",
+            "nama_paslon": "jkl",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "5",
+            "nama_paslon": "joni dan endang",
+            "nama_wilayah": "SUMATERA BARAT",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "21",
+            "nama_paslon": "Jodifu",
+            "nama_wilayah": "PESISIR SELATAN",
+            "penerimaan_ladk": "0",
+            "pengeluaran_ladk": "0",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Walikota dan Wakil Walikota"
+        },
+        {
+            "jenis_pencalonan": "PARPOL",
+            "id": "36",
+            "nama_paslon": "A dan B",
+            "nama_wilayah": "JAMBI",
+            "penerimaan_ladk": "5000000",
+            "pengeluaran_ladk": "22000000",
+            "penerimaan_lpsdk": "0",
+            "penerimaan_lppdk": "0",
+            "pengeluaran_lppdk": "0",
+            "jenis_pemilihan": "Gubernur dan Wakil Gubernur"
+        }
+    ]
+}
